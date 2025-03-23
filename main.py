@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Set page config
-st.set_page_config(page_title="Amundi Demo Projects", layout="centered")
+st.set_page_config(page_title="AI + RPA Demo Projects", layout="centered")
 
 # Title
-st.title("Amundi Demo Projects")
+st.title("AI + RPA Demo Projects")
 
 st.markdown("Select a demo project to explore. Each prototype demonstrates how AI and automation can be used to streamline key processes in Legal and Client Servicing domains.")
 

@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification, pipelin
 import pandas as pd
 import re
 
-st.set_page_config(page_title="Amundi Demo Projects", layout="centered")
+st.set_page_config(page_title="Legal Contract Review AI", layout="centered")
 
 # ---------- Load NER ----------
 @st.cache_resource
@@ -24,7 +24,7 @@ clause_patterns = {
 }
 
 # ---------- UI ----------
-st.title("📑 AI Legal Contract Reviewer")
+st.title("📑 Legal Contract Review – NER + Compliance")
 st.markdown("""
 This prototype uses a **pretrained BERT-based Named Entity Recognition (NER) model** from Hugging Face:  
 🔗 `dslim/bert-base-NER`
