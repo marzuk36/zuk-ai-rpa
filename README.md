@@ -1,6 +1,7 @@
 # 🤖 AI + RPA Prototype Apps
 
-<sub>This repository contains two lightweight AI + RPA demo apps built with Streamlit, showcasing how artificial intelligence and automation can streamline **Legal** and **Client Servicing** operations.</sub>
+**This repository contains two lightweight AI + RPA demo apps built with Streamlit,**  
+showcasing how artificial intelligence and automation can streamline **Legal** and **Client Servicing** operations.
 
 ---
 
@@ -18,8 +19,8 @@ Assist legal and compliance teams in reviewing contracts by detecting missing cl
 - Displays a compliance checklist and calculates a risk score
 - Includes **mock RPA buttons** (e.g., “Send for Legal Review”, “Auto-File”) to simulate downstream automation
 
-### ✅ **Example Use Case**  
-<sub>LegalOps teams can use this tool as a first-pass triage to prioritize contracts for deeper review, ensuring key clauses are present.</sub>
+> 💼 **LegalOps teams can use this tool as a first-pass triage**  
+> to prioritize contracts for deeper review, ensuring key clauses are present.
 
 ---
 
@@ -38,8 +39,8 @@ Help client servicing teams triage emails more efficiently based on intent, urge
   - **Sentiment** (Positive / Neutral / Negative)
 - Generates a **priority tag** to assist fast decision-making
 
-### ✅ **Example Use Case**  
-<sub>Support teams can auto-prioritize high-risk or time-sensitive emails, improving response times and SLA compliance.</sub>
+> 📨 **Support teams can auto-prioritize high-risk or time-sensitive emails,**  
+> improving response times and SLA compliance.
 
 ---
 
@@ -67,8 +68,7 @@ Help client servicing teams triage emails more efficiently based on intent, urge
 - ✅ Compliance scoring system
 - ✅ Email triage using intent, urgency, and sentiment
 - ✅ RPA action simulation buttons
-- ✅ Mobile-friendly UI
-
+  
 ---
 
 <sub>Created by [Marzuk](https://github.com/marzuk36) · Powered by Streamlit + Hugging Face Transformers</sub>
